@@ -8,7 +8,15 @@
  # Installation
 > pip install -r requirements.txt
 
+# Datasets
+We have demonstrated state-of-the-art experimental performance of our method on ADE20K, COCO-Stuff, and CamVid and Cityscapes datasets.
+You can download the ADE20K on [this](https://groups.csail.mit.edu/vision/datasets/ADE20K).
 
+You can download the COCO-Stuff on [this](https://github.com/nightrome/cocostuff10k).
+
+You can download the CamVid on [this](https://download.csdn.net/download/u011406896/87764336?utm_source=bbsseo&ydreferer=aHR0cHM6Ly9iYnMuY3Nkbi5uZXQvdG9waWNzLzYxNTQ4OTU2Ng%3D%3D).
+
+You can download the Cityscapes on [this](https://www.cityscapes-dataset.com/).
 
 
 
