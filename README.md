@@ -5,8 +5,7 @@
 # Pipeline
  ![Network](https://github.com/YUCOCOCS/CMDL/blob/main/Net.png)
 
- # Installation
-> pip install -r requirements.txt
+
 
 # Datasets
 We have demonstrated state-of-the-art experimental performance of our method on ADE20K, COCO-Stuff, and CamVid and Cityscapes datasets.
