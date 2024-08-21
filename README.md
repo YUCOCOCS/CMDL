@@ -19,5 +19,7 @@ You can download the CamVid on [this](https://download.csdn.net/download/u011406
 You can download the Cityscapes on [this](https://www.cityscapes-dataset.com/).
 
 
+# Training 
+     CUDA_VISIBLE_DEVICES=0,1,2,3 nohup  python -m torch.distributed.launch --nproc_per_node=4 --master_port=1001   train.py >train.log &
 
 
